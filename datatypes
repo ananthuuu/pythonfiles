@@ -1,0 +1,16 @@
+1) String 
+2) Integers
+3) floats
+4) list
+5) Dictionary
+6) Boolean -> True , False
+
+
+ananth 
+pappu 
+
+members = [[ "ananthu" , "pappu"]
+[24,23,44]
+]
+
+"ananth's name is nice"
