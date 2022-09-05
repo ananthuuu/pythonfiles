@@ -1,6 +1,3 @@
-
-
-
 option=input("""Please Select the required operation from the list
 
 1) Addition
