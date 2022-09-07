@@ -27,7 +27,8 @@ elif(option=="2") :
 
 elif(option=="3") :
     print("The option selected is division")
-    division=x/y 
+    division=x/y
+  
     print(f"The division of the {x} and {y} is {division}")
 
 elif(option=="4") :
