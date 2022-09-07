@@ -1,0 +1,7 @@
+1) Get the input from the user how many student are there
+2) Get all details
+
+Personaldetails -> Name , Age , Location
+Academic details -> School , mathsmark , Sciencemark , Averageofmaths and science 
+
+Display 
